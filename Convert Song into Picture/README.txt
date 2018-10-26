@@ -1,0 +1,1 @@
+This was a small project I touched on that looked at converting a song into a picture. It did not yield very good results and needs specific tinkering for each picture, but still outputs something. 

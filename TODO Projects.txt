@@ -1,0 +1,22 @@
+Given 2 or more pictures construct a 3D model
+Scale pictures up and down
+	Feed into Neural Net and grow them. 
+	Take a slice of a picture and generate things off the pictures original specs, see what happens. 
+Create a neural network to solve for the roots of a polynomial
+Proceedual Music Generator
+Write something similar to git!
+Create a multithreaded program
+Create a script that can access kissmanga
+Greek Roguelike game
+Card Game with Battleunits and things -GML
+Expand on old projects!
+
+
+
+
+
+
+
+
+
+Add more of my project ideas here

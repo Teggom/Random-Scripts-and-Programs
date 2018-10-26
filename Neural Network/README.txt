@@ -1,0 +1,1 @@
+This was just some light playing around I did with R's neural networks. It never lead anywhere and exists just to help me should I pick it up again. 

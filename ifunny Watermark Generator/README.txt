@@ -1,0 +1,1 @@
+Sticks an ifunny watermark on a target picture
