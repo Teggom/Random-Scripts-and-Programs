@@ -11,6 +11,21 @@ Greek Roguelike game
 Card Game with Battleunits and things -GML
 Expand on old projects!
 Upload Games made in R
+Upload GameR
+
+Civ Development game focused on Fighting giant monsters (Such as godzilla)
+	Follows Civ Series structure
+		Start out with small civilization on an island
+		Some number of objectives to protect
+		Grow your civ over decades in preparation for the Kaiju attack
+			Trade off between military focus, expansion focus, and economic focus
+	Once Kaiju attacks shift to military control/production at facilities
+		could appear from any water front, focuses on reaching objectives on map or destroying the city
+		Various Kaiju could appear with various immunities and weaknesses
+		Military already created at this point become movable in a squad-like fashion 
+		Unlocks the ability to create a super unit at this point based on researched technologies
+
+		
 
 
 
